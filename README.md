@@ -3,4 +3,4 @@
 
 I am **SeHyun OH**.
 
-I would like to learn about `C++` and `Python`!
+I would like to learn about `Python`!
